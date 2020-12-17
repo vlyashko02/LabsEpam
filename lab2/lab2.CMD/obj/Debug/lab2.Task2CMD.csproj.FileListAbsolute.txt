@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\epam\lab1\lab2\lab2.CMD\bin\Debug\lab2.CMD.exe.config
+C:\Users\User\Desktop\epam\lab1\lab2\lab2.CMD\bin\Debug\lab2.CMD.exe
+C:\Users\User\Desktop\epam\lab1\lab2\lab2.CMD\bin\Debug\lab2.CMD.pdb
+C:\Users\User\Desktop\epam\lab1\lab2\lab2.CMD\bin\Debug\lab2.BL.dll
+C:\Users\User\Desktop\epam\lab1\lab2\lab2.CMD\bin\Debug\lab2.BL.pdb
+C:\Users\User\Desktop\epam\lab1\lab2\lab2.CMD\obj\Debug\lab2.Task2CMD.csprojAssemblyReference.cache
+C:\Users\User\Desktop\epam\lab1\lab2\lab2.CMD\obj\Debug\lab2.Task2CMD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\epam\lab1\lab2\lab2.CMD\obj\Debug\lab2.Task2CMD.csproj.CopyComplete
+C:\Users\User\Desktop\epam\lab1\lab2\lab2.CMD\obj\Debug\lab2.CMD.exe
+C:\Users\User\Desktop\epam\lab1\lab2\lab2.CMD\obj\Debug\lab2.CMD.pdb
