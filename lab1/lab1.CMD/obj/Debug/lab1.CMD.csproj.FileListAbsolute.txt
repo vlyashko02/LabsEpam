@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.CMD\obj\Debug\lab1.CMD.csprojAssemblyReference.cache
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.CMD\obj\Debug\lab1.CMD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.CMD\bin\Debug\lab1.CMD.exe.config
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.CMD\bin\Debug\lab1.CMD.exe
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.CMD\bin\Debug\lab1.CMD.pdb
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.CMD\obj\Debug\lab1.CMD.exe
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.CMD\obj\Debug\lab1.CMD.pdb
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.CMD\bin\Debug\lab1.BL.dll
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.CMD\bin\Debug\lab1.BL.pdb
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.CMD\obj\Debug\lab1.CMD.csproj.CopyComplete

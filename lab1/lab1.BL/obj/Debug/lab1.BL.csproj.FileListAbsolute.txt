@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.BL\bin\Debug\lab1.BL.dll
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.BL\bin\Debug\lab1.BL.pdb
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.BL\obj\Debug\lab1.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.BL\obj\Debug\lab1.BL.dll
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.BL\obj\Debug\lab1.BL.pdb
+C:\Users\User\Desktop\epam\lab1\lab1\lab1.BL\obj\Debug\lab1.BL.csprojAssemblyReference.cache
