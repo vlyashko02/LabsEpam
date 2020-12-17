@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2020.3.6.0" projectFile="C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\SandCastleDocument.shfbproj" started="17.12.2020 12:42:43">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2020.3.6.0" projectFile="C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\SandCastleDocument.shfbproj" started="17.12.2020 13:02:25">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -39,16 +39,16 @@ Copying XML comments files
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, Английский (США))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00,0030
+</plugIn>    Last step completed in 00:00:00,0280
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00,0000
+    Last step completed in 00:00:00,0040
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - GenerateRefInfo.proj]
-‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 17.12.2020 12:42:44.
+‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 17.12.2020 13:02:27.
 Џа&#174;ҐЄв &quot;C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\GenerateRefInfo.proj&quot; ў г&#167;&#171;Ґ 1 (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
 PrepareForBuild:
   ‘&#174;&#167;&#164;&#160;&#173;ЁҐ Є&#160;в&#160;&#171;&#174;Ј&#160; &quot;obj\Debug\&quot;.
@@ -59,20 +59,20 @@ GenerateRefInfo:
   Copyright c 2006-2020, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2020, Eric Woodruff, All Rights Reserved.
   No source code context base path specified.  Source context information is unavailable.
-  Loaded 2 assemblies for reflection and 1 dependency assemblies.
-  Wrote information on 2 namespaces, 7 types, and 25 members
+  Loaded 3 assemblies for reflection and 1 dependency assemblies.
+  Wrote information on 3 namespaces, 9 types, and 38 members
   Љ&#174;ЇЁа&#174;ў&#160;&#173;ЁҐ д&#160;&#169;&#171;&#160; Ё&#167; &quot;C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\reflection.org&quot; ў &quot;C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\reflection.all&quot;.
   XslTransform (v2020.3.6.0)
   Copyright c 2006-2020, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2020, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
 ‘Ў&#174;аЄ&#160; Їа&#174;ҐЄв&#160; &quot;C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\GenerateRefInfo.proj&quot; &#167;&#160;ўҐаиҐ&#173;&#160; (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
-    Last step completed in 00:00:00,8110
+    Last step completed in 00:00:00,9859
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - TransformManifest.proj]
-‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 17.12.2020 12:42:45.
+‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 17.12.2020 13:02:28.
 Џа&#174;ҐЄв &quot;C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\TransformManifest.proj&quot; ў г&#167;&#171;Ґ 1 (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
 TransformManifest:
   XslTransform (v2020.3.6.0)
@@ -89,11 +89,11 @@ TransformManifest:
   Portions Copyright c 2006-2020, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
 ‘Ў&#174;аЄ&#160; Їа&#174;ҐЄв&#160; &quot;C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\TransformManifest.proj&quot; &#167;&#160;ўҐаиҐ&#173;&#160; (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
-    Last step completed in 00:00:00,5645
+    Last step completed in 00:00:00,8686
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00,0030
+    Last step completed in 00:00:00,0330
 </buildStep>
 <buildStep step="CopyConceptualContent">
 Copying conceptual content...
@@ -108,28 +108,28 @@ Generating conceptual topic files
     C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Content\VersionHistory\VersionHistory.aml -&gt; C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\ddueXml\1d94418d-f40d-4c2a-8202-a4b97673cde8.xml
     Parsing topic file &#39;C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Content\VersionHistory\v1.0.0.0.aml&#39;
     C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Content\VersionHistory\v1.0.0.0.aml -&gt; C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\ddueXml\15a04952-305f-4a1b-af6a-f7eb637ba6de.xml
-    Last step completed in 00:00:00,0290
+    Last step completed in 00:00:00,0410
 </buildStep>
 <buildStep step="CreateConceptualTopicConfigs">
 Creating conceptual topic configuration files...
     Companion files
     _ContentMetadata_.xml
     Merging topic IDs into manifest.xml
-    Last step completed in 00:00:00,0050
+    Last step completed in 00:00:00,0110
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\icons\Help.png -&gt; C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\Output\HtmlHelp1\icons\Help.png
-    Last step completed in 00:00:00,0030
+    Last step completed in 00:00:00,0070
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
-    Last step completed in 00:00:00,0000
+    Last step completed in 00:00:00,0032
 </buildStep>
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - GenerateIntermediateTOC.proj]
-‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 17.12.2020 12:42:46.
+‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 17.12.2020 13:02:29.
 Џа&#174;ҐЄв &quot;C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\GenerateIntermediateTOC.proj&quot; ў г&#167;&#171;Ґ 1 (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
 GenerateIntermediateTOC:
   XslTransform (v2020.3.6.0)
@@ -138,12 +138,12 @@ GenerateIntermediateTOC:
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
 ‘Ў&#174;аЄ&#160; Їа&#174;ҐЄв&#160; &quot;C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\GenerateIntermediateTOC.proj&quot; &#167;&#160;ўҐаиҐ&#173;&#160; (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00,2981
+    Last step completed in 00:00:00,3565
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00,1391
+    Last step completed in 00:00:00,1837
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
@@ -151,12 +151,12 @@ C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\sandcastle.
   Updating reference topic configurations.
   Updating conceptual topic configurations.
     Removing unused ExampleComponent.
-    Last step completed in 00:00:00,0040
+    Last step completed in 00:00:00,0060
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
 [C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\MSBuild.exe - BuildTopics.proj]
-‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 17.12.2020 12:42:46.
+‘Ў&#174;аЄ&#160; &#173;&#160;з&#160;в&#160; 17.12.2020 13:02:30.
 Џа&#174;ҐЄв &quot;C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\BuildTopics.proj&quot; ў г&#167;&#171;Ґ 1 (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
 BuildTopics:
   BuildAssembler (v2020.3.6.0)
@@ -164,17 +164,17 @@ BuildTopics:
   Portions Copyright c 2006-2020, Eric Woodruff, All Rights Reserved.
   Loading configuration...
   Processing topics...
-  Processed 46 topic(s)
+  Processed 69 topic(s)
   CopyFromIndexComponent: &quot;metadata&quot; in-memory cache entries used: 1 of 15.
   ResolveArtLinksComponent: Copying media files...
-  CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 3 of 15.
-  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 2 of 30.
+  CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 7 of 15.
+  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 5 of 30.
 ‘Ў&#174;аЄ&#160; Їа&#174;ҐЄв&#160; &quot;C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\BuildTopics.proj&quot; &#167;&#160;ўҐаиҐ&#173;&#160; (жҐ&#171;ҐўлҐ &#174;ЎкҐЄвл Ї&#174; г&#172;&#174;&#171;з&#160;&#173;Ёо).
-    Last step completed in 00:00:06,7872
+    Last step completed in 00:00:09,5080
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00,0020
+    Last step completed in 00:00:00,0010
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -186,11 +186,11 @@ E-Mail: Eric@EWoodruff.us
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 
 Processing Help 1 files in C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\Output\HtmlHelp1
-Processed 46 HTML files
+Processed 69 HTML files
 Sorting keywords and generating See Also indices
 Saving HTML Help 1 keyword index to C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\SandCastleDocument.hhk
 Saving HTML Help 1 table of contents to C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\SandCastleDocument.hhc
-    Last step completed in 00:00:00,2963
+    Last step completed in 00:00:00,3047
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -256,7 +256,7 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-CN.css -&gt; C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\Output\HtmlHelp1\styles\branding-zh-CN.css
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-TW.css -&gt; C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\Output\HtmlHelp1\styles\branding-zh-TW.css
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding.css -&gt; C:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\Output\HtmlHelp1\styles\branding.css
-    Last step completed in 00:00:00,2973
+    Last step completed in 00:00:00,2953
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating HTML Help 1 table of contents file...
@@ -268,7 +268,7 @@ Generating HTML Help 1 index file...
 </buildStep>
 <buildStep step="GenerateHelpProject">
 Generating HTML Help 1 project file...
-    Last step completed in 00:00:00,0020
+    Last step completed in 00:00:00,0040
 </buildStep>
 <buildStep step="CompilingHelpFile">
 Compiling HTML Help 1 file...
@@ -283,11 +283,11 @@ Compiling HTML Help 1 file...
   
   
   
-  Compile time: 0 minutes, 0 seconds
+  Compile time: 0 minutes, 1 second
   
-  48	Topics
+  71	Topics
   
-  521	Local links
+  735	Local links
   
   0	Internet links
   
@@ -297,19 +297,19 @@ Compiling HTML Help 1 file...
   
   
   
-  Created c:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\Output\HtmlHelp1\SandCastleDocument.chm, 102,580 bytes
+  Created c:\Users\User\Desktop\epam\lab1\lab1\SandCastleDocument\Help\Working\Output\HtmlHelp1\SandCastleDocument.chm, 216,604 bytes
   
-  Compression decreased file by 331,063 bytes.
+  Compression decreased file by 1,041,634 bytes.
   
-    Last step completed in 00:00:01,2471
+    Last step completed in 00:00:01,8467
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00,1702
+    Last step completed in 00:00:00,0420
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 17.12.2020 12:42:55.  Total time: 00:00:11,8710
+Build completed successfully at 17.12.2020 13:02:42.  Total time: 00:00:16,1655
 
 </buildStep>
 </shfbBuild>
