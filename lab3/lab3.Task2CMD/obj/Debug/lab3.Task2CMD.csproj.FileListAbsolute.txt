@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task2CMD\bin\Debug\lab3.Task2CMD.exe.config
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task2CMD\bin\Debug\lab3.Task2CMD.exe
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task2CMD\bin\Debug\lab3.Task2CMD.pdb
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task2CMD\bin\Debug\lab3.BL.dll
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task2CMD\bin\Debug\lab3.BL.pdb
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task2CMD\obj\Debug\lab3.Task2CMD.csprojAssemblyReference.cache
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task2CMD\obj\Debug\lab3.Task2CMD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task2CMD\obj\Debug\lab3.Task2CMD.csproj.CopyComplete
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task2CMD\obj\Debug\lab3.Task2CMD.exe
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task2CMD\obj\Debug\lab3.Task2CMD.pdb

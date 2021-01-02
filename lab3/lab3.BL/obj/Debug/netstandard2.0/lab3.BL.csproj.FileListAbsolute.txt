@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.BL\bin\Debug\netstandard2.0\lab3.BL.deps.json
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.BL\bin\Debug\netstandard2.0\lab3.BL.dll
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.BL\bin\Debug\netstandard2.0\lab3.BL.pdb
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.BL\obj\Debug\netstandard2.0\lab3.BL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.BL\obj\Debug\netstandard2.0\lab3.BL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.BL\obj\Debug\netstandard2.0\lab3.BL.AssemblyInfo.cs
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.BL\obj\Debug\netstandard2.0\lab3.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.BL\obj\Debug\netstandard2.0\lab3.BL.dll
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.BL\obj\Debug\netstandard2.0\lab3.BL.pdb

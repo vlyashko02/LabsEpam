@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task1CMD\bin\Debug\lab3.Task1CMD.exe.config
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task1CMD\bin\Debug\lab3.Task1CMD.exe
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task1CMD\bin\Debug\lab3.Task1CMD.pdb
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task1CMD\bin\Debug\lab3.BL.dll
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task1CMD\bin\Debug\lab3.BL.pdb
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task1CMD\obj\Debug\lab3.Task1CMD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task1CMD\obj\Debug\lab3.Task1CMD.csproj.CopyComplete
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task1CMD\obj\Debug\lab3.Task1CMD.exe
+C:\Users\User\Desktop\epam\lab1\lab3\lab3.Task1CMD\obj\Debug\lab3.Task1CMD.pdb
