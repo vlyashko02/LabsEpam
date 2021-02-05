@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\lab5\lab5\lab5.BL\bin\Debug\lab5.BL.dll
+C:\Users\Lenovo\Desktop\lab5\lab5\lab5.BL\bin\Debug\lab5.BL.pdb
+C:\Users\Lenovo\Desktop\lab5\lab5\lab5.BL\obj\Debug\lab5.BL.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\lab5\lab5\lab5.BL\obj\Debug\lab5.BL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\lab5\lab5\lab5.BL\obj\Debug\lab5.BL.dll
+C:\Users\Lenovo\Desktop\lab5\lab5\lab5.BL\obj\Debug\lab5.BL.pdb
