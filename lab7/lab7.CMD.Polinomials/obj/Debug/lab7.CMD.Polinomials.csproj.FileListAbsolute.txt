@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.CMD.Polinomials\bin\Debug\lab7.CMD.Polinomials.exe.config
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.CMD.Polinomials\bin\Debug\lab7.CMD.Polinomials.exe
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.CMD.Polinomials\bin\Debug\lab7.CMD.Polinomials.pdb
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.CMD.Polinomials\obj\Debug\lab7.CMD.Polinomials.csprojAssemblyReference.cache
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.CMD.Polinomials\obj\Debug\lab7.CMD.Polinomials.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.CMD.Polinomials\obj\Debug\lab7.CMD.Polinomials.exe
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.CMD.Polinomials\obj\Debug\lab7.CMD.Polinomials.pdb
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.CMD.Polinomials\bin\Debug\lab7.BL.dll
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.CMD.Polinomials\bin\Debug\lab7.BL.pdb
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.CMD.Polinomials\obj\Debug\lab7.CMD.Polinomials.csproj.CopyComplete

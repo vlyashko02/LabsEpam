@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.BL\obj\Debug\lab7.BL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.BL\obj\Debug\lab7.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.BL\bin\Debug\lab7.BL.dll
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.BL\bin\Debug\lab7.BL.pdb
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.BL\obj\Debug\lab7.BL.dll
+C:\Users\User\Desktop\epam\lab1\lab7\lab7\lab7.BL\obj\Debug\lab7.BL.pdb
