@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.BL\bin\Debug\lab8.BL.dll
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.BL\bin\Debug\lab8.BL.pdb
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.BL\obj\Debug\lab8.BL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.BL\obj\Debug\lab8.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.BL\obj\Debug\lab8.BL.dll
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.BL\obj\Debug\lab8.BL.pdb

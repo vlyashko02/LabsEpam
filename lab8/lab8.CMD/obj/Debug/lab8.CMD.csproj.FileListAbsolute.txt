@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.CMD\bin\Debug\lab8.CMD.exe.config
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.CMD\bin\Debug\lab8.CMD.exe
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.CMD\bin\Debug\lab8.CMD.pdb
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.CMD\bin\Debug\lab8.BL.dll
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.CMD\bin\Debug\lab8.BL.pdb
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.CMD\obj\Debug\lab8.CMD.csprojAssemblyReference.cache
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.CMD\obj\Debug\lab8.CMD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.CMD\obj\Debug\lab8.CMD.csproj.CopyComplete
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.CMD\obj\Debug\lab8.CMD.exe
+C:\Users\User\Desktop\epam\lab1\lab8\lab8\lab8.CMD\obj\Debug\lab8.CMD.pdb
